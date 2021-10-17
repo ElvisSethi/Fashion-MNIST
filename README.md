@@ -23,7 +23,7 @@ Here's an example of how the data looks (each class takes three-rows):
 In this project I have developed a machine learning model to predict the fashion item in the image and classify it into different given types . The steps used in developing the machine learning model are of the one that are used in CNN.<br><hr>
 <b>Below is brief description of every step and technique used for CNN based Classification:</b><br>
 In the training phase, preprocessing, feature exaction and classification with Loss function is performed to make a prediction model. Initially, label the training image set. In the preprocessing image resizing is applied to change size of the image.<br>
-Finally, the convolution neural network is used for automatic brain tumor classification. The brain image dataset is taken from image net. Image net is a one of the pre-trained model.Convolution filter is applied in the first layer and the sensitivity of filter is reduced by smoothing the convolution filter (i.e) subsampling. Then we fasten the training period by using rectified linear unit (RELU). The neurons in proceeding layer is connected to every neuron in subsequent layer<br>  
+I split my entire dataset of 70,000 images of different apparels into training, validation and test set in 80%, 10%, 10% respectively and also I set Load Dataset in Memory to “Full dataset” and then Convolutional Neural Network was created. After tuning the Hyperparameter, I started training my Model and after training my CNN Model the predictions were made with high accuracy.<br>  
 </p>
 <hr>
 <h2>Screenshots of the working Webapp</h2>

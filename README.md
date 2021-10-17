@@ -20,7 +20,7 @@ Here's an example of how the data looks (each class takes three-rows):
 <hr>
 <h2>Project Methodology</h2>
 <p>
-In this project I have developed a machine learning model to detect the presence of tumor in MRI scans of different people. The steps used in developing the machine learning model are of the one that are used in CNN.<br><hr>
+In this project I have developed a machine learning model to predict the fashion item in the image and classify it into different given types . The steps used in developing the machine learning model are of the one that are used in CNN.<br><hr>
 <b>Below is brief description of every step and technique used for CNN based Classification:</b><br>
 In the training phase, preprocessing, feature exaction and classification with Loss function is performed to make a prediction model. Initially, label the training image set. In the preprocessing image resizing is applied to change size of the image.<br>
 Finally, the convolution neural network is used for automatic brain tumor classification. The brain image dataset is taken from image net. Image net is a one of the pre-trained model.Convolution filter is applied in the first layer and the sensitivity of filter is reduced by smoothing the convolution filter (i.e) subsampling. Then we fasten the training period by using rectified linear unit (RELU). The neurons in proceeding layer is connected to every neuron in subsequent layer<br>  

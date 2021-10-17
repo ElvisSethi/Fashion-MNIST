@@ -22,12 +22,12 @@ Here's an example of how the data looks (each class takes three-rows):
 ![ml](https://www.researchgate.net/profile/Greeshma-K-V/publication/340299295/figure/fig1/AS:875121904476163@1585656729996/Fashion-MNIST-Dataset-Images-with-Labels-and-Description-II-LITERATURE-REVIEW-In-image.jpg)
 </p>
 <p>
-<b>Project Link Online Deployed on Heroku : <a href="https://brain-tumor-classifier1.herokuapp.com/">https://brain-tumor-classifier1.herokuapp.com/</a></b>
+<b>Project Link Online Deployed on Heroku : <a href="https://fashion-mnist-elvis.herokuapp.com">https://fashion-mnist-elvis.herokuapp.com</a></b>
 </p>
 <hr>
 <h2>Dataset and Libraries</h2>
 <p>
-<b>Dataset : <a href="https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection">https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection</a></b><br>
+<b>Dataset : <a href="https://www.researchgate.net/profile/Greeshma-K-V/publication/340299295/figure/fig1/AS:875121904476163@1585656729996/Fashion-MNIST-Dataset-Images-with-Labels-and-Description-II-LITERATURE-REVIEW-In-image.jpg">https://www.researchgate.net/profile/Greeshma-K-V/publication/340299295/figure/fig1/AS:875121904476163@1585656729996/Fashion-MNIST-Dataset-Images-with-Labels-and-Description-II-LITERATURE-REVIEW-In-image.jpg</a></b><br>
 <b>Libraries : </b>Python , Numpy , Pandas, Sklearn , Node.js , Tensorflow.<br>
 <b>Frameworks : </b>VScode , jupyter Notebook , Heroku.<br>
 </p>
